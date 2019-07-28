@@ -1,10 +1,13 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Effendy]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [July 28, Sunday, 2019].
 
-## Log
+## Log of Round 1 of #100DaysOfCode
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### Day 1: July 28. Sunday
 
-### R1D2
+**Today's Progress**: 
+
+**Thoughts:** s
+
+**Link to work:** 
